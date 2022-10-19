@@ -1,2 +1,2 @@
-# Personal_Portfolio
-Personal portfolio: Catalogue of education, projects and photography
+# projects zero
+catalogue of files for beginner
